@@ -1,7 +1,6 @@
 {
   "data": [
-
- {
+      {
       "name": "必应搜索(Web)",
       "pic": "https://img3.doubanio.com/view/photo/l/public/p2871301860.webp",
       "webUrl": "https://cn.bing.com/?scope=web&FORM=EDNTHT",
@@ -14,8 +13,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-  {
+      },
+      {
       "name": "腾讯热搜榜(Web)",
       "pic": "https://img.sheboo.cn/uploads/ueditor/image/20200505/1588663683382176.png",
       "webUrl": "https://v.qq.com/biu/ranks/?t=hotsearch",
@@ -28,8 +27,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "鲨鱼TV(Web)",
       "pic": "https://imgb14.photophoto.cn/20200303/canghaiyishengxiaohaibao-36371985_3.jpg",
       "webUrl": "https://www.sharktv.cn/",
@@ -42,8 +41,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "天堂影视(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/uiq0rxuywu508qr1559138349/260",
       "webUrl": "http://www.bmcpl.cn/",
@@ -56,10 +55,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-
-
-  {
+      },
+      {
       "name": "樱花动漫(Web)",
       "pic": "http://www.puhuajia.com/data/attachment/portal/201905/02/094742b7ylya7kyjujjimi.jpg",
       "webUrl": "https://www.xyhdm.cc/",
@@ -72,8 +69,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "vidhub视频库(Web)",
       "pic": "http://image13.m1905.cn/uploadfile/2017/0717/20170717094250108534.jpeg",
       "webUrl": "https://vidhub.cc/",
@@ -86,11 +83,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-
-
-
-{
+      },
+      {
       "name": "嗑书的阿冉叔·鹊门刀传奇(Web)",
       "pic": "https://wx4.sinaimg.cn/large/002Po4pSly1h3fnnb1sytj60u01hc7ch02.jpg",
       "webUrl": "https://space.bilibili.com/693450094/video",
@@ -103,8 +97,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-{
+      },
+      {
       "name": "十三邀·腾(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/mzc002009opyj1s1638774734243/260",
       "webUrl": "https://v.qq.com/x/search/?q=腾讯新闻十三邀&stag=12",
@@ -117,8 +111,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "五十公里桃花坞·腾日20(Web)",
       "pic": "https://vmedia.qpic.cn/vcolumn/images/90499/1655022120489/0",
       "webUrl": "https://v.qq.com/x/search/?q=五十公里桃花坞&stag=0&smartbox_ab=",
@@ -131,8 +125,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "毛雪汪·腾一21(Web)",
       "pic": "https://vmedia.qpic.cn/vcolumn/images/90102/1635437222034/0",
       "webUrl": "https://v.qq.com/x/search/?q=毛雪汪&stag=0&smartbox_ab=",
@@ -145,9 +139,9 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
-      "name": "侣行·酷二22(Web)",
+      },
+      {
+      "name": "侣行(Web)",
       "pic": "https://tse1-mm.cn.bing.net/th/id/R-C.14f77203596b8684b149cafdd02777ef?rik=5l2tuqHpXlyUVA&riu=http%3a%2f%2ftva4.sinaimg.cn%2fmw690%2f005BjCpAjw1f72sezmrtbj30g00qojt0.jpg&ehk=tRMQfA6Q%2bByGmJRhwjs%2bCQtEt4jymFTsCGNwrT7Kea4%3d&risl=&pid=ImgRaw&r=0",
       "webUrl": "https://so.youku.com/search_video/q_侣行?searchfrom=1",
       "type": "web",
@@ -159,8 +153,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "诛仙·腾二10(Web)",
       "pic": "https://wx1.sinaimg.cn/mw690/008aFUHZly1gt8piw26yuj329435s4qp.jpg",
       "webUrl": "https://v.qq.com/x/search/?q=诛仙&stag=0&smartbox_ab=",
@@ -173,8 +167,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "谎颜·B四11(Web)",
       "pic": "https://i0.hdslb.com/bfs/bangumi/image/521be9f21ee7dcf00eba4375b742f4a7dec2d51a.jpg@362w_482h_1c.webp",
       "webUrl": "https://search.bilibili.com/all?keyword=谎颜&from_source=webtop_search&spm_id_from=333.6",
@@ -187,9 +181,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-
- {
+      },
+      {
       "name": "冰火魔厨·酷六10(Web)",
       "pic": "https://m.ykimg.com/0526000061B406961FD8520947A06F65",
       "webUrl": "https://so.youku.com/search_video/q_冰火魔厨?searchfrom=1",
@@ -202,8 +195,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-  {
+      },
+      {
       "name": "斗罗大陆·腾六10(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1575196882/0.jpg",
       "webUrl": "https://v.qq.com/x/search/?q=斗罗大陆&stag=12",
@@ -216,11 +209,11 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-{
+      },
+      {
       "name": "斗破苍穹·腾日10(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020027yzd9e1656210118396/260",
-      "webUrl": "https://v.qq.com/x/search/?q=斗破苍穹年番&stag=12",
+      "webUrl": "https://v.qq.com/x/search/?q=斗破苍穹&stag=0&smartbox_ab=",
       "type": "web",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -230,8 +223,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "凡人修仙传·B日11(Web)",
       "pic": "https://image.9game.cn/2020/9/18/176910798_.jpg",
       "webUrl": "https://search.bilibili.com/all?keyword=凡人修仙传&from_source=webtop_search&spm_id_from=333.6",
@@ -244,8 +237,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "星辰变·腾（即）(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/0s8n49g3g1rv1oz1640485077539/260",
       "webUrl": "https://v.qq.com/x/search/?q=星辰变&stag=0&smartbox_ab=",
@@ -258,8 +251,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-{
+      },
+      {
       "name": "一人之下第五季·腾（即）(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020040eq43g1657077575506/260",
       "webUrl": "https://v.qq.com/x/search/?q=一人之下第五季&stag=12",
@@ -272,10 +265,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-
-
- {
+      },
+      {
       "name": "武动乾坤·腾（待续）(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/jg1skog3zvrv9ur1628408288005/260",
       "webUrl": "https://v.qq.com/x/search/?q=武动乾坤&stag=0&smartbox_ab=",
@@ -288,8 +279,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "开局一座山·腾（待续）(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200yk8yt6j1644473301649/260",
       "webUrl": "https://v.qq.com/x/search/?q=开局一座山&stag=2&smartbox_ab=4828328%237972088",
@@ -302,8 +293,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "优酷视频(Web)",
       "pic": "https://img.pcdown.net/uploadfile/2020/1021/20201021043231201.jpg",
       "webUrl": "https://youku.com/",
@@ -316,8 +307,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "爱奇艺视频(Web)",
       "pic": "https://tse2-mm.cn.bing.net/th/id/OIP-C.GtsZln8W5OtKdc-yKcsZ7AHaKd?pid=ImgDet&rs=1",
       "webUrl": "https://www.iqiyi.com/",
@@ -330,8 +321,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "芒果TV(Web)",
       "pic": "http://i8.qhimg.com/t01015a70194ad7d71f.png",
       "webUrl": "https://www.mgtv.com/lib/?",
@@ -344,8 +335,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-    {
+      },
+      {
       "name": "西瓜视频(Web)",
       "pic": "http://p4.itc.cn/images01/20200911/2fbf79a5671b446bad81c5abff401282.jpeg",
       "webUrl": "https://www.ixigua.com/cinema/filter/zongyi/",
@@ -358,8 +349,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-   {
+      },
+      {
       "name": "电视&广播",
       "pic": "https://img2.duote.com/duoteimg/dtnew_softup_img/202006/20200624172514_90877.jpg",
       "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
@@ -374,8 +365,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "台湾东森新闻(Web)",
       "pic": "https://p1.ssl.qhmsg.com/dr/270_500_/t01edfbb490833dd9b3.png?size=268x268.jpg",
       "webUrl": "https://www.chaojidianshi.net/zhibo/33.html",
@@ -388,8 +379,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-{
+      },
+      {
       "name": "电影轮播",
       "pic": "https://p1.ifengimg.com/2019_21/43942d10-0c61-4b39-b7cf-b19a73ed1583_C4771E0221D2F359C3D46B816751BE20ED48E6B8_w1080_h2002.jpg",
       "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
@@ -404,8 +395,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-{
+      },
+      {
       "name": "直播源自用",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p4216.jpg",
       "webUrl": "https://xxh668899.gitee.io/hometv/my.m3u",
@@ -413,8 +404,8 @@
       "subTitle": "影视24小时直播整理中",
       "click": true,
       "webPlus": {}
-    },
-{
+      },
+      {
       "name": "失败why",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p4216.jpg",
       "webUrl": "https://lin-hongyu123.gitee.io/hometv/B2.m3u",
@@ -422,9 +413,8 @@
       "subTitle": "影视24小时直播整理中",
       "click": true,
       "webPlus": {}
-    },
-
- {
+      },
+      {
       "name": "影视大全(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/uiq0rxuywu508qr1559138349/260",
       "webUrl": "http://www.yjdlg.com/",
@@ -437,8 +427,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "8K影视(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/uiq0rxuywu508qr1559138349/260",
       "webUrl": "http://vip.8kvod.com:888/",
@@ -451,8 +441,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "天龙影院.(Web)",
       "pic": "https://imgb14.photophoto.cn/20200303/canghaiyishengxiaohaibao-36371985_3.jpg",
       "webUrl": "https://www.sdczysm.com/",
@@ -465,8 +455,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "木瓜影院.(Web)",
       "pic": "https://imgb14.photophoto.cn/20200303/canghaiyishengxiaohaibao-36371985_3.jpg",
       "webUrl": "http://www.www0352.com/",
@@ -479,8 +469,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-{
+      },
+      {
       "name": "央视直播(Web)更新到最新版",
       "pic": "https://api.dujin.org/bing/1920.php",
       "webUrl": "https://tv.cctv.com/live/",
@@ -495,11 +485,11 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-{
-     "name": "IPTV电视直播",
-     "pic": "https://nmbimg.fastmirror.org/image/2020-11-20/5fb7c63e12a0d.jpg",
-     "type": "m3u",
+      },
+      {
+      "name": "IPTV电视直播",
+      "pic": "https://nmbimg.fastmirror.org/image/2020-11-20/5fb7c63e12a0d.jpg",
+      "type": "m3u",
       "webUrl": "https://iptv-org.github.io/iptv/languages/zho.m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -511,8 +501,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-    {
+      },
+      {
       "name": "企鹅电竞一起看(Web)更新到最新版",
       "pic": "https://api.ixiaowai.cn/gqapi/gqapi.php",
       "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110",
@@ -525,8 +515,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-    {
+      },
+      {
       "name": "哔哩哔哩一起看(Web)更新到最新版",
       "pic": "https://dimg02.c-ctrip.com/images/0106m120004zrdig01832_R_800_10000_Q90.jpg?proc=autoorient",
       "webUrl": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
@@ -541,8 +531,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-{
+      },
+      {
       "name": "txt格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
@@ -557,7 +547,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    }, {
+      }, 
+      {
       "name": "json格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://pastebin.com/raw/Ue63BWUp",
@@ -572,8 +563,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-    {
+      },
+      {
       "name": "m3u格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://iptv-org.github.io/iptv/countries/cn.m3u",
@@ -588,8 +579,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-    {
+      },
+      {
       "name": "m3u格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio",
@@ -604,9 +595,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-
-{
+      },
+      {
       "name": "亲爱的小孩·爱(Web)",
       "pic": "https://pic8.iqiyipic.com/image/20220411/e3/1e/a_100480683_m_601_m4_260_360.jpg?caplist=jpg,webp",
       "webUrl": "https://so.iqiyi.com/so/q_亲爱的小孩?source=input&sr=14871854356208130&ssrt=20220413032726267&ssra=5be6608251408222bb0dd55680f88247",
@@ -619,8 +609,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-{
+      },
+      {
       "name": "沉默的真相·爱(Web)",
       "pic": "https://pic7.iqiyipic.com/image/20210311/33/7f/a_100403629_m_601_m10_260_360.jpg?caplist=jpg,webp",
       "webUrl": "https://so.iqiyi.com/so/q_沉默的真相?source=hot&sr=7457864811456157&ssrt=20220413032449560&ssra=81541ff88095abb9321dd3448e2817eb",
@@ -633,8 +623,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
- {
+      },
+      {
       "name": "老郭有新番·酷一12(Web)",
       "pic": "http://5b0988e595225.cdn.sohucs.com/images/20171207/b507154d32324e18b8abcaf894cb10c6.jpeg",
       "webUrl": "https://so.youku.com/search_video/q_老郭有新番第1季?searchfrom=3",
@@ -647,8 +637,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-   {
+      },
+      {
       "name": "斗鱼轮播",
       "pic": "https://img.sheboo.cn/uploads/ueditor/image/20200505/1588663683382176.png",
       "webUrl": "https://cdn.jsdelivr.net/gh/linhongyv/FreedTV@latest/oldjv8.txt",
@@ -663,8 +653,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-    {
+      },
+      {
       "name": "B站轮播&直播中国",
       "pic": "https://imgb14.photophoto.cn/20200303/canghaiyishengxiaohaibao-36371985_3.jpg",
       "type": "m3u",   
@@ -679,8 +669,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-  {
+      },
+      {
       "name": "TV",
       "pic": "https://img2.duote.com/duoteimg/dtnew_softup_img/202006/20200624172514_90877.jpg",
       "type": "m3u",   
@@ -695,8 +685,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-    {
+      },
+      {
       "name": "m3u格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://pastebin.com/raw/Dg5EDRXp",
@@ -711,8 +701,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-{
+      },
+      {
       "name": "txt格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
@@ -727,7 +717,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    }, {
+      }, 
+      {
       "name": "json格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://pastebin.com/raw/Ue63BWUp",
@@ -742,8 +733,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-    {
+      },
+      {
       "name": "m3u格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://iptv-org.github.io/iptv/countries/cn.m3u",
@@ -758,8 +749,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-    {
+      },
+      {
       "name": "m3u格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio",
@@ -774,8 +765,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    },
-    {
+      },
+      {
       "name": "m3u格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://pastebin.com/raw/Dg5EDRXp",
@@ -790,6 +781,6 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    }
+      }
   ]
 }
