@@ -85,9 +85,9 @@
       "webPlus": {}
       },
       {
-      "name": "天堂影视(Web)",
+      "name": "鸭奈飞影视(Web)",
       "pic": "https://puui.qpic.cn/vcover_vt_pic/0/uiq0rxuywu508qr1559138349/260",
-      "webUrl": "http://www.bmcpl.cn/",
+      "webUrl": "https://enlienli.com/",
       "type": "web",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -100,7 +100,7 @@
       },
       {
       "name": "樱花动漫(Web)",
-      "pic": "https://img9.doubanio.com/view/photo/l/public/p2195050426.webp",
+      "pic": "https://img9.doubanio.com/view/photo/l/public/p2006809905.webp",
       "webUrl": "https://www.xyhdm.cc/",
       "type": "web",
       "subTitle": "经典动画电影整理中",
@@ -141,6 +141,20 @@
       "webPlus": {}
       },
       {
+      "name": "侣行·酷二(Web)",
+      "pic": "https://tse1-mm.cn.bing.net/th/id/R-C.14f77203596b8684b149cafdd02777ef?rik=5l2tuqHpXlyUVA&riu=http%3a%2f%2ftva4.sinaimg.cn%2fmw690%2f005BjCpAjw1f72sezmrtbj30g00qojt0.jpg&ehk=tRMQfA6Q%2bByGmJRhwjs%2bCQtEt4jymFTsCGNwrT7Kea4%3d&risl=&pid=ImgRaw&r=0",
+      "webUrl": "https://so.youku.com/search_video/q_地球之极·侣行%20第七季?searchfrom=1",
+      "type": "web",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "webOpen": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+      },
+      {
       "name": "十三邀·腾(Web)",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2179709414.webp",
       "webUrl": "https://v.qq.com/x/search/?q=腾讯新闻十三邀&stag=12",
@@ -157,49 +171,7 @@
       {
       "name": "圆桌派·酷四21(Web)",
       "pic": "https://m.ykimg.com/0526000062FCD5F42037DD0935A546CD",
-      "webUrl": "https://so.youku.com/search_video/q_圆桌派?searchfrom=1",
-      "type": "web",
-      "subTitle": "经典动画电影整理中",
-      "click": true,
-      "autoNext": false,
-      "webOpen": true,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-      },
-      {
-      "name": "五十公里桃花坞·腾日20(Web)",
-      "pic": "https://vmedia.qpic.cn/vcolumn/images/90499/1655022120489/0",
-      "webUrl": "https://v.qq.com/x/search/?q=五十公里桃花坞&stag=0&smartbox_ab=",
-      "type": "web",
-      "subTitle": "经典动画电影整理中",
-      "click": true,
-      "autoNext": false,
-      "webOpen": true,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-      },
-      {
-      "name": "毛雪汪·腾一21(Web)",
-      "pic": "https://vmedia.qpic.cn/vcolumn/images/90102/1635437222034/0",
-      "webUrl": "https://v.qq.com/x/search/?q=毛雪汪&stag=0&smartbox_ab=",
-      "type": "web",
-      "subTitle": "经典动画电影整理中",
-      "click": true,
-      "autoNext": false,
-      "webOpen": true,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-      },
-      {
-      "name": "侣行·酷(Web)",
-      "pic": "https://tse1-mm.cn.bing.net/th/id/R-C.14f77203596b8684b149cafdd02777ef?rik=5l2tuqHpXlyUVA&riu=http%3a%2f%2ftva4.sinaimg.cn%2fmw690%2f005BjCpAjw1f72sezmrtbj30g00qojt0.jpg&ehk=tRMQfA6Q%2bByGmJRhwjs%2bCQtEt4jymFTsCGNwrT7Kea4%3d&risl=&pid=ImgRaw&r=0",
-      "webUrl": "https://so.youku.com/search_video/q_侣行?searchfrom=1",
+      "webUrl": "https://so.youku.com/search_video/q_圆桌派%20第六季?searchfrom=1",
       "type": "web",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -618,7 +590,7 @@
       },
       {
       "name": "哔哩哔哩一起看(Web)更新到最新版",
-      "pic": "https://img9.doubanio.com/view/photo/l/public/p2006809905.webp",
+      "pic": "https://img9.doubanio.com/view/photo/l/public/p2195050426.webp",
       "webUrl": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
       "type": "web",
       "subTitle": "经典动画电影整理中",
