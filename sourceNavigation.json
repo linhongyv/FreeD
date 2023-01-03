@@ -2,7 +2,7 @@
   "data": [
       {
       "name": "必应搜索(Web)",
-      "pic": "https://img9.doubanio.com/view/photo/m/public/p2558313856.webp",
+      "pic": "https://img2.doubanio.com/view/photo/l/public/p2880107351.webp",
       "webUrl": "https://cn.bing.com/?scope=web&FORM=EDNTHT",
       "type": "web",
       "subTitle": "经典动画电影整理中",
@@ -197,6 +197,20 @@
       "webPlus": {}
       },
       {
+      "name": "星辰变·腾一10(Web)",
+      "pic": "https://puui.qpic.cn/vcover_vt_pic/0/0s8n49g3g1rv1oz1640485077539/260",
+      "webUrl": "https://v.qq.com/x/search/?q=星辰变&stag=0&smartbox_ab=",
+      "type": "web",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "webOpen": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+      },
+      {
       "name": "诛仙·腾二10(Web)",
       "pic": "https://wx1.sinaimg.cn/mw690/008aFUHZly1gt8piw26yuj329435s4qp.jpg",
       "webUrl": "https://v.qq.com/x/search/?q=诛仙&stag=0&smartbox_ab=",
@@ -267,9 +281,9 @@
       "webPlus": {}
       },
       {
-      "name": "凡人修仙传·B日11(Web)",
-      "pic": "https://image.9game.cn/2020/9/18/176910798_.jpg",
-      "webUrl": "https://search.bilibili.com/all?keyword=凡人修仙传&from_source=webtop_search&spm_id_from=333.6",
+      "name": "中国奇谭·B日10(Web)",
+      "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885130077.webp",
+      "webUrl": "https://search.bilibili.com/all?keyword=中国奇谭&from_source=webtop_search&spm_id_from=666.25&search_source=2",
       "type": "web",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -281,9 +295,9 @@
       "webPlus": {}
       },
       {
-      "name": "星辰变·腾（即）(Web)",
-      "pic": "https://puui.qpic.cn/vcover_vt_pic/0/0s8n49g3g1rv1oz1640485077539/260",
-      "webUrl": "https://v.qq.com/x/search/?q=星辰变&stag=0&smartbox_ab=",
+      "name": "凡人修仙传·B日11(Web)",
+      "pic": "https://image.9game.cn/2020/9/18/176910798_.jpg",
+      "webUrl": "https://search.bilibili.com/all?keyword=凡人修仙传&from_source=webtop_search&spm_id_from=333.6",
       "type": "web",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -499,8 +513,8 @@
       "webPlus": {}
       },
       {
-      "name": "电影轮播",
-      "pic": "https://img1.doubanio.com/view/photo/l/public/p2885130077.webp",
+      "name": "金庸·侠客行·连城诀·越女剑·天龙八部·射雕英雄传·神雕侠侣·倚天屠龙记·笑傲江湖·碧血剑·鸳鸯刀·白马啸西风·鹿鼎记·书剑恩仇录·飞狐外传·雪山飞狐",
+      "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539584148.webp",
       "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
