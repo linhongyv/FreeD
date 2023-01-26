@@ -71,7 +71,7 @@
       "webPlus": {}
       },
       {
-      "name": "《姜文》鲨鱼TV(Web)",
+      "name": "《让子弹飞》鲨鱼TV(Web)",
       "pic": "https://img9.doubanio.com/view/photo/m/public/p458643865.webp",
       "webUrl": "https://www.sharktv.cn/",
       "type": "web",
@@ -1707,6 +1707,22 @@
       {
       "name": "琅琊榜·胡歌",
       "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2271982968.webp",
+      "webUrl": "https://pastebin.com/raw/Dg5EDRXp",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+      },
+      {
+      "name": "天下长河",
+      "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2680945231.webp",
       "webUrl": "https://pastebin.com/raw/Dg5EDRXp",
       "type": "txt",
       "subTitle": "",
